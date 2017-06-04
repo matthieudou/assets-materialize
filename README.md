@@ -93,7 +93,7 @@ For each folder (**`components`**, **`layout`**, **`pages`**, **`vendor`**), the
 ```
 
 <!-- If no need for font-awesome -->
-## `Font-awesome
+## `Font-awesome`
 
 By default, the `font-awesome` icons are imported. If you don't want them, you have to remove:
 
